@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_height">15dp</dimen>
+    <dimen name="height_finance_bg">100dp</dimen>
+    <dimen name="margin_inside_width">10dp</dimen>
+    <dimen name="gopay_height">80dp</dimen>
+    <dimen name="inside_text">18sp</dimen>
+    <dimen name="small_inside_text">15sp</dimen>
+    <dimen name="feature_icon">75dp</dimen>
+    <dimen name="small_feature_icon">50dp</dimen>
+    <dimen name="small_margin_height">5dp</dimen>
+    <dimen name="outter_text">20sp</dimen>
+    <dimen name="tiny_icon">25dp</dimen>
+    <dimen name="margin_height_toolbar">100dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_icon">30dp</dimen>
+</resources>

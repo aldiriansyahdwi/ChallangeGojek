@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/green_main"
+    android:minHeight="80dp"
+    android:elevation="4dp">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/search_toolbar_bg"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintStart_toStartOf="@id/search_toolbar"
+            app:layout_constraintTop_toTopOf="@id/search_toolbar"
+            app:layout_constraintBottom_toBottomOf="@id/search_toolbar"
+            android:background="@drawable/round_corners"
+            android:backgroundTint="@color/white"
+            app:layout_constraintWidth_percent="0.8"
+            />
+        <SearchView
+            android:id="@+id/search_toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:queryHint="Cari layanan, makanan &amp; tujuan"
+            />
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/circle_profile"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            app:civ_border_color="@color/white"
+            app:civ_border_width="1dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/search_toolbar"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@id/search_toolbar_bg"
+            />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.appcompat.widget.Toolbar>

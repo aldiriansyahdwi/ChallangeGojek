@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/bayar_icon.xml" value="0.203" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/beranda_icon.xml" value="0.2545" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/explor_icon.xml" value="0.203" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/fork_spoon_icon.xml" value="0.203" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/go_ride.xml" value="0.203" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2065" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/isi_saldo_ico.xml" value="0.203" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/promo_section.xml" value="0.254" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/round_corners.xml" value="0.1" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/shadow.xml" value="0.124" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/shadow_outline.xml" value="0.176" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/shadow_quick_access.xml" value="0.203" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/drawable/small_round_corners.xml" value="0.203" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/layout/activity_bottom_nav_bar.xml" value="0.2" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/layout/bottom_toolbar_gojek.xml" value="0.25416666666666665" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/layout/fragment_beranda.xml" value="0.25416666666666665" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/layout/toolbar_gojek.xml" value="0.1" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1825" />
+        <entry key="..\:/Tugas/UPNVJ/Semester 6/Binar Academy/code/B_Chllange/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1825" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

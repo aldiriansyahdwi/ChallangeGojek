@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_main">#31B057</color>
+    <color name="green_secondary">#51C273</color>
+    <color name="red_gofood">#E52A34</color>
+    <color name="red_error">#CF212A</color>
+    <color name="blue_gopay">#388BF2</color>
+    <color name="yellow_gopoints">#FBAF18</color>
+    <color name="orange_gotix">#FC8338</color>
+    <color name="black_text">#25282B</color>
+    <color name="black_description">#52575C</color>
+    <color name="gray_components">#A0A4A8</color>
+    <color name="gray_disable">#CACCCF</color>
+    <color name="gray_borders">#E8E8E8</color>
+    <color name="blue_finance">#5BA0F5</color>
+    <color name="green_goclub">#ADDAFFD5</color>
+</resources>
