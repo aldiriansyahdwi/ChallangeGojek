@@ -312,7 +312,7 @@
         app:layout_constraintEnd_toEndOf="@id/lainnya_icon"
         android:textSize="@dimen/small_inside_text"
         android:textColor="@color/black_description"/>
-    <ImageView
+    <ImageButton
         android:id="@+id/goclub_bg"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -492,7 +492,7 @@
         app:layout_constraintWidth_percent="0.9"
         android:background="@drawable/shadow_quick_access" />
 
-    <ImageView
+    <ImageButton
         android:id="@+id/promo_banner"
         android:layout_width="0dp"
         android:layout_height="200dp"
@@ -531,8 +531,8 @@
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
-    <include
-        layout="@layout/bottom_toolbar_gojek"
+
+    <include layout="@layout/bottom_toolbar_gojek"
 
         />
 </RelativeLayout>
