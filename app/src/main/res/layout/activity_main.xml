@@ -2,21 +2,22 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+
     <include layout="@layout/toolbar_gojek"
         android:id="@+id/toolbar_gojek"/>
     <include layout="@layout/bottom_toolbar_gojek"
         />
-
     <ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginBottom="60dp">
+        >
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:context=".MainActivity">
+            tools:context=".MainActivity"
+            android:paddingBottom="80dp">
 
             <ImageView
                 android:id="@+id/finance_bg"
