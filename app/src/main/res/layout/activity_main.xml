@@ -20,6 +20,7 @@
             android:paddingBottom="80dp">
 
             <ImageView
+                android:contentDescription="@string/finance_section"
                 android:id="@+id/finance_bg"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -33,6 +34,7 @@
                 app:layout_constraintWidth_percent="0.9" />
 
             <ImageButton
+                android:contentDescription="@string/finance_section"
                 android:id="@+id/gopay_bg"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -46,6 +48,7 @@
                 app:layout_constraintWidth_percent="0.35" />
 
             <ImageView
+                android:contentDescription="@string/finance_section"
                 android:id="@+id/gopay_icon"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -77,6 +80,7 @@
                 app:layout_constraintTop_toBottomOf="@id/total_finance" />
 
             <ImageButton
+                android:contentDescription="@string/finance_section"
                 android:id="@+id/bayar_icon"
                 android:layout_width="40dip"
                 android:layout_height="40dip"
@@ -89,6 +93,7 @@
                 app:layout_constraintTop_toTopOf="@id/gopay_bg" />
 
             <ImageButton
+                android:contentDescription="@string/finance_section"
                 android:id="@+id/isi_saldo_icon"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -102,6 +107,7 @@
                 app:layout_constraintWidth="40dp" />
 
             <ImageButton
+                android:contentDescription="@string/finance_section"
                 android:id="@+id/explor_icon"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -150,6 +156,7 @@
                 app:layout_constraintTop_toTopOf="@id/isi_saldo_text" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/goride_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -162,6 +169,7 @@
                 app:layout_constraintTop_toBottomOf="@id/finance_bg" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/gosend_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -173,6 +181,7 @@
                 app:layout_constraintTop_toTopOf="@id/goride_icon" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/gocar_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -184,6 +193,7 @@
                 app:layout_constraintTop_toTopOf="@id/goride_icon" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/gofood_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -239,6 +249,7 @@
                 app:layout_constraintTop_toBottomOf="@id/goride_icon" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/gomart_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -250,6 +261,7 @@
                 app:layout_constraintTop_toBottomOf="@id/goride_text" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/lainnya_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -260,6 +272,7 @@
                 app:layout_constraintTop_toTopOf="@id/gomart_icon" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/gopulsa_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -271,6 +284,7 @@
                 app:layout_constraintTop_toTopOf="@id/gomart_icon" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/checkin_icon"
                 android:layout_width="@dimen/feature_icon"
                 android:layout_height="@dimen/feature_icon"
@@ -326,6 +340,7 @@
                 app:layout_constraintTop_toBottomOf="@id/gomart_icon" />
 
             <ImageButton
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/goclub_bg"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
@@ -339,6 +354,7 @@
                 app:layout_constraintWidth_percent="0.9" />
 
             <ImageView
+                android:contentDescription="@string/feature_section"
                 android:layout_width="wrap_content"
                 android:layout_height="65dp"
                 android:background="@drawable/round_corners"
@@ -349,6 +365,7 @@
                 app:layout_constraintTop_toTopOf="@id/goclub_bg" />
 
             <ImageView
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/goclub_icon"
                 android:layout_width="@dimen/small_feature_icon"
                 android:layout_height="@dimen/small_feature_icon"
@@ -373,6 +390,7 @@
                 app:layout_constraintWidth_percent="0.5" />
 
             <ImageView
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/arrow_goclub"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
@@ -394,6 +412,7 @@
                 app:layout_constraintStart_toStartOf="@id/determinateBar" />
 
             <ImageView
+                android:contentDescription="@string/feature_section"
                 android:id="@+id/hourglass_goclub_icon"
                 android:layout_width="10dp"
                 android:layout_height="10dp"
@@ -425,6 +444,7 @@
                 app:layout_constraintTop_toBottomOf="@id/goclub_bg" />
 
             <ImageView
+                android:contentDescription="@string/akses_cepat"
                 android:id="@+id/quick_access_bg"
                 android:layout_width="0dp"
                 android:layout_height="75dp"
@@ -435,6 +455,7 @@
                 app:layout_constraintWidth_percent="0.9" />
 
             <ImageView
+                android:contentDescription="@string/akses_cepat"
                 android:id="@+id/dividing_line"
                 android:layout_width="0dp"
                 android:layout_height="2dp"
@@ -445,6 +466,7 @@
                 app:layout_constraintWidth_percent="0.9" />
 
             <ImageView
+                android:contentDescription="@string/akses_cepat"
                 android:id="@+id/discount_icon"
                 android:layout_width="@dimen/tiny_icon"
                 android:layout_height="@dimen/tiny_icon"
@@ -466,6 +488,7 @@
                 app:layout_constraintWidth_percent="0.6" />
 
             <ImageView
+                android:contentDescription="@string/akses_cepat"
                 android:id="@+id/discount_button"
                 android:layout_width="@dimen/tiny_icon"
                 android:layout_height="@dimen/tiny_icon"
@@ -476,6 +499,7 @@
                 app:layout_constraintTop_toTopOf="@id/discount_icon" />
 
             <ImageView
+                android:contentDescription="@string/akses_cepat"
                 android:id="@+id/resto_icon"
                 android:layout_width="@dimen/tiny_icon"
                 android:layout_height="@dimen/tiny_icon"
@@ -497,6 +521,7 @@
                 app:layout_constraintWidth_percent="0.6" />
 
             <ImageView
+                android:contentDescription="@string/akses_cepat"
                 android:id="@+id/resto_button"
                 android:layout_width="@dimen/tiny_icon"
                 android:layout_height="@dimen/tiny_icon"
@@ -507,6 +532,7 @@
                 app:layout_constraintTop_toTopOf="@id/resto_icon" />
 
             <ImageView
+                android:contentDescription="@string/promo_section"
                 android:id="@+id/promo_section"
                 android:layout_width="0dp"
                 android:layout_height="300dp"
@@ -527,6 +553,7 @@
                 app:layout_constraintWidth_percent="0.9">
 
                 <ImageView
+                    android:contentDescription="@string/promo_section"
                     android:id="@+id/promo_banner"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"

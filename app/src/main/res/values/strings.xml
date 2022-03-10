@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">B Challange</string>
+    <string name="app_name">B Challenge</string>
     <string name="total_finance"><b>Rp109.850</b></string>
     <string name="klik_finance"><b><![CDATA[Klik & cek riwayat]]></b></string>
     <string name="bayar_text">Bayar</string>
@@ -20,5 +20,14 @@
     <string name="restoran_text">Restoran terdekat</string>
     <string name="promo_title_text">Nonton lengkap dan asik!</string>
     <string name="promo_desc_text">Nonton asik dan seru dimana aja sesuai keinginanmu cashback sampai 30%</string>
+    <string name="finance_section">finance section</string>
+    <string name="feature_section">feature section</string>
+    <string name="promo_section">promo section</string>
+    <string name="toolbar_section">toolbar section</string>
+    <string name="bottom_nav_section">bottom nav section</string>
+    <string name="beranda">Beranda</string>
+    <string name="promo">Promo</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="chat">Chat</string>
 
 </resources>
